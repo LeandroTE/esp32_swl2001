@@ -1,0 +1,3 @@
+[submodule "components/SWL2001"]
+	path = components/SWL2001
+	url = https://github.com/LeandroTE/SWL2001.git
